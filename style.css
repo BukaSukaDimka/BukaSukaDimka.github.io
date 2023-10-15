@@ -1,0 +1,63 @@
+
+body {
+  font-family: Verdana, sans-serif;
+}
+
+.merch {
+  color: blue;
+}
+
+.container {
+  padding: 0 40px;
+  margin-left: 100px;
+}
+
+h1 {
+  font-size: 40px;
+  color: red;
+  text-align: center;
+}
+a {text-align: font-size: 40px;
+  color: red;
+}
+
+h2 {
+  font-size: 25px;
+  margin: 25px 0;
+  text-align: center;
+}
+
+  /* Свойства фотографии*/
+.photo {
+  border-radius: 200px;
+  /* Радиус скругления */
+  border: 3px solid transparent;
+  /* Параметры рамки */
+  box-shadow: 0 4px 15px 0px rgba(0, 0, 0, 0.52);
+  object-fit: cover;
+}
+
+  /* Эффект наведения на картинку */
+.photo:hover {
+  border: 10px solid #FFD700;
+}
+
+  /* Свойства ссылок */
+a {
+  display: inline-block;
+  text-decoration:revert-layer;
+  margin-bottom: 10 px;
+  position: blocked;
+}
+
+  /* Что делать при наведении на ссылку */
+a:hover {
+  color:darkred;
+}
+
+  
+
+
+
+
+
